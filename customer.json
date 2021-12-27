@@ -1,0 +1,8 @@
+{
+    "FirstName":"Dio",
+    "LastName":"Surandito",
+    "Age":24,
+    "Job":"Programmer",
+    "Married":false,
+    "Hobbies":["Gaming","Reading","Coding"]
+}
